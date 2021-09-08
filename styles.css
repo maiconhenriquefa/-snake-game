@@ -1,0 +1,23 @@
+* {
+    margin: 0;
+    padding: 0;
+    border-style: border-box;
+}
+
+body{
+    height: 95vh;
+    width: 95vw;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color: #151224;
+}
+
+h1 {
+    color: rgb(6, 248, 6);
+    font-family: 'Bangers';
+    font-size: 80px;
+    font-weight: 200;
+    margin-top: 5%;
+}
